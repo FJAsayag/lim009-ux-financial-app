@@ -1,5 +1,13 @@
 # Fintech App: **Tus Finanzas**
 
+## Preámbulo
+Todos tenemos en nuestras mentes una historia de éxito económico de alguien que surgió desde el polvo y hoy cuenta con numerosas propiedades, una lista de sueños cumplidos y una buena herencia para sus sucesores. Todos conocemos esas historias de esfuerzo arduo y de malos tiempos, que llevaron luego a esa persona y su familia a mejores épocas. Pero, además de la determinación, ¿qué hay en medio?
+ 
+¿Todo tiene que ver con la economía? Suene triste y capitalista, así es. En un mundo donde trozos de papel equivalen anhelos humanos, todos trabajamos para acumular cuantos más papelitos podamos. Y he ahí lo que encontramos en medio: el ahorro. 
+
+Un banco nacional es muy consciente de ello, por lo que se propuso desarrollar una aplicación llamada _Tus Finanzas_ que ayude a sus usuarios con el ahorro. Al cabo de 6 meses, con ansias de saber cómo direccionar su aplicación, nos brindan toda la información posible en busca de soluciones o mejoras que puedan implementar. 
+
+
 ## Objetivos iniciales del proyecto
 *	Validar la investigación previamente hecha. 
 * Testear la versión actual de Tus Finanzas.
